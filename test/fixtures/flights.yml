@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  airline: MyString
+  cityFrom: MyString
+  cityTo: MyString
+  fly_duration: MyString
+  price: MyString
+  dTime: 1
+  aTime: 1
+  deep_link: MyString
+  id: MyString
+
+two:
+  airline: MyString
+  cityFrom: MyString
+  cityTo: MyString
+  fly_duration: MyString
+  price: MyString
+  dTime: 1
+  aTime: 1
+  deep_link: MyString
+  id: MyString
